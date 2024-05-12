@@ -6,7 +6,7 @@ on:
  pull_request: 
        branches: [master]
 
- #schedule:
+ #schedule: 
  #- cron: '0 20,22,23 * * 1-5'      
 
 jobs:
